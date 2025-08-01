@@ -7,6 +7,6 @@
 ### 🚀 Tecnologías
 - 🖥️ Lenguajes: Java,Python    
 - 🗄️ Bases de datos: MySQL
-- 🌐 Web: HTML, CSS.
+- 🌐 Web: HTML, CSS, Angular
 ### 📊 Estadísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuUsuario&show_icons=true&theme=dark)
