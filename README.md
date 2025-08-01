@@ -1,6 +1,7 @@
 ## 👋 ¡Hola! Soy Jesús Barroso  
 
-![Coding GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
 
 💻 Desarrollador Junior especializado en Java  
 📚 Estudiante de DAM | Apasionado por el desarrollo backend y móvil  
